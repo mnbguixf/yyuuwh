@@ -1,6 +1,6 @@
 {
-    "name": "xray-55",
-    "description": "v2ray good web",
+    "name": "thirdxray",
+    "description": "v2ray good thirdxray",
     "keywords": ["vvray vmess vless trojan shadowsocks socks tor"],
     "env": {
         "AA": {
