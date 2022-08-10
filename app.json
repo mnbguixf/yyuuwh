@@ -12,7 +12,7 @@
             "value": ""
         },
         "CADDYIndexPage": {
-            "description": "自定义CADDY部署完成后点击View的显示页面，参考：https://github.com/Lbingyi/HerokuXray/blob/master/etc/CADDYIndexPage.md",
+            "description": "自定义CADDY部署完成后点击View的显示页面，参考：",
             "value": "https://github.com/ripienaar/free-for-dev/archive/master.zip"
         },
         "CONFIGCADDY": {
